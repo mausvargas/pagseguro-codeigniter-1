@@ -22,6 +22,7 @@ Configure os parâmetros da configuração do Pag Seguro em ``./application/conf
 
 Na seu controller:
 
+
     <?php
     
     class MeuController extends CI_Controller {
