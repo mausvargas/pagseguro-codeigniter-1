@@ -1,0 +1,197 @@
+{2012/05/21 16:27:43} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=andreseko@gmail.com)) - begin 
+{2012/05/21 16:27:43} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=andreseko@gmail.com)) - end {1}91AB479241412C9444580F80C490A764 
+{2012/05/21 16:54:39} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=1nGy55,     SenderEmail=andreseko@gmail.com)) - begin 
+{2012/05/21 16:54:40} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=1nGy55,     SenderEmail=andreseko@gmail.com)) - end {1}3FC6727D01015EEFF4526F81FC4B1D7F 
+{2012/05/21 17:50:44} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=1fLj6y,     SenderEmail=andreseko@gmail.com)) - begin 
+{2012/05/21 17:50:45} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=1fLj6y,     SenderEmail=andreseko@gmail.com)) - end {1}952003E0E4E4CA00042D1FBBD0A0F091 
+{2012/05/21 17:54:14} [Error] Invalid notification parameters. 
+{2012/05/21 17:55:34} [Error] Invalid notification parameters. 
+{2012/05/21 18:00:24} [Error] Invalid notification parameters. 
+{2012/05/21 18:03:41} [Error] Invalid notification parameters. 
+{2012/05/21 18:06:50} [Error] Invalid notification parameters. 
+{2012/05/23 10:06:14} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=1PXBaP,     SenderEmail=andreseko@gmail.com)) - begin 
+{2012/05/23 10:06:15} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=1PXBaP,     SenderEmail=andreseko@gmail.com)) - end {1}0B0A73B2666623A004C05F9D6397F3F0 
+{2012/06/06 15:31:04} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=38VCryA,     SenderEmail=andre@agsimulators.com.br)) - begin 
+{2012/06/06 15:31:05} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=38VCryA,     SenderEmail=andre@agsimulators.com.br)) - end {1}8AC98CBE0303896AA413BFA2951A4439 
+{2012/06/06 15:34:15} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=40HNCTc,     SenderEmail=pedrokummel@gmail.com)) - begin 
+{2012/06/06 15:34:15} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=40HNCTc,     SenderEmail=pedrokummel@gmail.com)) - end {1}71A5A6FC8181FF6884F33FBCCA727433 
+{2012/06/06 15:40:12} [Error] Invalid notification parameters. 
+{2012/06/06 15:42:30} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=38vpM7t,     SenderEmail=andre@agsimulators.com.br)) - begin 
+{2012/06/06 15:42:30} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=38vpM7t,     SenderEmail=andre@agsimulators.com.br)) - end {1}0018BBAC0707B07334B46FAD24697507 
+{2012/06/06 15:51:38} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=38kDntp,     SenderEmail=andre@agsimulators.com.br)) - begin 
+{2012/06/06 15:51:39} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=38kDntp,     SenderEmail=andre@agsimulators.com.br)) - end {1}5FF5F0321E1EE47EE42F7F9D16C3F612 
+{2012/06/06 16:08:12} [Error] Unknown notification type [TRANSACTION] 
+{2012/06/06 16:09:06} [Error] Unknown notification type [TRANSACTION] 
+{2012/06/06 16:09:07} [Error] Invalid notification parameters. 
+{2012/06/06 16:10:04} [Error] Invalid notification parameters. 
+{2012/06/06 16:10:32} [Error] Unknown notification type [CREDIT_CARD] 
+{2012/06/06 16:28:24} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=38gxBG5,     SenderEmail=andre@agsimulators.com.br)) - begin 
+{2012/06/06 16:28:25} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=38gxBG5,     SenderEmail=andre@agsimulators.com.br)) - end {1}092CE43270709BD444841F857A5880C7 
+{2012/06/06 16:31:15} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 16:31:15} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 16:31:15} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 16:31:15} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 16:35:46} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 16:35:47} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 16:35:47} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 16:35:48} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 16:48:13} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 16:48:13} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 16:48:13} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 16:48:14} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 16:49:14} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 16:49:14} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 16:49:15} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 16:49:15} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 16:49:46} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 16:49:46} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 16:49:47} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 16:49:47} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 16:50:06} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=873C9EEB-E738-40DA-9D8B-E0FBDDA70454) - begin 
+{2012/06/06 16:50:06} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=873C9EEB-E738-40DA-9D8B-E0FBDDA70454) - error [HTTP 400] - BAD_REQUEST [13001] - invalid notification code value: 873C9EEB-E738-40DA-9D8B-E0FBDDA70454 
+{2012/06/06 16:50:06} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 16:50:06} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 17:16:12} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=873C9EEBE73840DA9D8BE0FBDDA70454) - begin 
+{2012/06/06 17:16:13} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=873C9EEBE73840DA9D8BE0FBDDA70454) - error [HTTP 400] - BAD_REQUEST [13001] - invalid notification code value: 873C9EEBE73840DA9D8BE0FBDDA70454 
+{2012/06/06 17:17:35} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=38zW3bd,     SenderEmail=andre@agsimulators.com.br)) - begin 
+{2012/06/06 17:17:36} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=38zW3bd,     SenderEmail=andre@agsimulators.com.br)) - end {1}0F37299DF8F8251004B61F935D61864F 
+{2012/06/06 17:17:47} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 17:17:47} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=27D119-FAE8D8E8D870-1EE477DF9CD0-C33BBE) - begin 
+{2012/06/06 17:17:47} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 17:17:47} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=27D119-FAE8D8E8D870-1EE477DF9CD0-C33BBE) - end Transaction(Code=8BEACC3D-CFA9-4DBF-9C03-AF7604E0119A, SenderEmail=andre@agsimulators.com.br, Date=2012-06-06T17:17:42.000-03:00, Reference=38zW3bd, status=1, itemsCount=1)) 
+{2012/06/06 17:17:47} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 17:17:48} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 17:24:40} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 17:24:40} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 17:24:40} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - begin 
+{2012/06/06 17:24:41} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: notifications 
+{2012/06/06 17:57:32} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=40Jd4Hn,     SenderEmail=pedrokummel@gmail.com)) - begin 
+{2012/06/06 17:57:32} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=40Jd4Hn,     SenderEmail=pedrokummel@gmail.com)) - end {1}A247668F7171B8599417AFAEA83C8908 
+{2012/06/06 17:58:58} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 17:58:58} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:05:14} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:05:15} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:05:59} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:06:00} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:07:19} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:07:19} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:15:05} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=133E07-E00E0C0E0CB5-3DD4737F83C2-93C75B) - begin 
+{2012/06/06 18:15:06} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=133E07-E00E0C0E0CB5-3DD4737F83C2-93C75B) - end Transaction(Code=AC4ACC33-509A-4035-BB87-8D4F887E427E, SenderEmail=andre@agsimulators.com.br, Date=2012-06-06T15:51:45.000-03:00, Reference=38kDntp, status=3, itemsCount=1)) 
+{2012/06/06 18:18:17} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:18:18} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:18:18} [Info] PagSeguroTransactionSearchService.SearchByCode(D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:18:18} [Error] PagSeguroTransactionSearchService.SearchByCode(transactionCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: D86CBD-DB5C585C5871-8664485FA677-D21665 
+{2012/06/06 18:19:25} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:19:26} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:19:26} [Info] PagSeguroTransactionSearchService.SearchByCode(D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:19:26} [Error] PagSeguroTransactionSearchService.SearchByCode(transactionCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: D86CBD-DB5C585C5871-8664485FA677-D21665 
+{2012/06/06 18:19:30} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:19:30} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:19:30} [Info] PagSeguroTransactionSearchService.SearchByCode(D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:19:30} [Error] PagSeguroTransactionSearchService.SearchByCode(transactionCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: D86CBD-DB5C585C5871-8664485FA677-D21665 
+{2012/06/06 18:19:59} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=1F20B4-823F183F18B8-9334B85FA369-24BAAB) - begin 
+{2012/06/06 18:20:00} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=1F20B4-823F183F18B8-9334B85FA369-24BAAB) - end Transaction(Code=2D53D75F-9C38-4E25-80F3-748F57002C06, SenderEmail=andre@agsimulators.com.br, Date=2012-06-06T15:42:36.000-03:00, Reference=38vpM7t, status=1, itemsCount=1)) 
+{2012/06/06 18:20:00} [Info] PagSeguroTransactionSearchService.SearchByCode(1F20B4-823F183F18B8-9334B85FA369-24BAAB) - begin 
+{2012/06/06 18:20:00} [Error] PagSeguroTransactionSearchService.SearchByCode(transactionCode=1F20B4-823F183F18B8-9334B85FA369-24BAAB) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: 1F20B4-823F183F18B8-9334B85FA369-24BAAB 
+{2012/06/06 18:20:11} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=2767AE-83E08FE08FFF-ECC4E68F87C8-F4914C) - begin 
+{2012/06/06 18:20:12} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=2767AE-83E08FE08FFF-ECC4E68F87C8-F4914C) - end Transaction(Code=873C9EEB-E738-40DA-9D8B-E0FBDDA70454, SenderEmail=andre@agsimulators.com.br, Date=2012-06-06T16:28:31.000-03:00, Reference=38gxBG5, status=1, itemsCount=1)) 
+{2012/06/06 18:20:12} [Info] PagSeguroTransactionSearchService.SearchByCode(2767AE-83E08FE08FFF-ECC4E68F87C8-F4914C) - begin 
+{2012/06/06 18:20:12} [Error] PagSeguroTransactionSearchService.SearchByCode(transactionCode=2767AE-83E08FE08FFF-ECC4E68F87C8-F4914C) - error [HTTP 400] - BAD_REQUEST [13003] - invalid transactionCode value: 2767AE-83E08FE08FFF-ECC4E68F87C8-F4914C 
+{2012/06/06 18:25:41} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:25:42} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:29:53} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:29:54} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:30:51} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:30:51} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:32:16} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:32:16} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:32:43} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:32:43} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:33:44} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:33:44} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:34:16} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:34:16} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:34:36} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:34:36} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:35:15} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:35:15} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:35:55} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:35:55} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:36:24} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:36:24} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:36:52} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:36:52} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:37:33} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:37:33} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:38:00} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:38:00} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:38:12} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:38:12} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:38:37} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:38:37} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:39:00} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - begin 
+{2012/06/06 18:39:01} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D86CBD-DB5C585C5871-8664485FA677-D21665) - end Transaction(Code=F2E6EE38-86B3-4ADD-B474-5BB3D33B98AE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T17:57:38.000-03:00, Reference=40Jd4Hn, status=3, itemsCount=1)) 
+{2012/06/06 18:40:09} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=40AQ5RY,     SenderEmail=pedrokummel@gmail.com)) - begin 
+{2012/06/06 18:40:09} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=40AQ5RY,     SenderEmail=pedrokummel@gmail.com)) - end {1}A6202BF4B8B8BB5554ADAF8C4FB1BEC1 
+{2012/06/06 18:40:47} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=278DCC-AAE6C6E6C693-2DD4C5FF8C26-8272CD) - begin 
+{2012/06/06 18:40:48} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=278DCC-AAE6C6E6C693-2DD4C5FF8C26-8272CD) - end Transaction(Code=5E546AFF-1E6B-4503-B7D4-8E3F900844FE, SenderEmail=pedrokummel@gmail.com, Date=2012-06-06T18:40:15.000-03:00, Reference=40AQ5RY, status=3, itemsCount=1)) 
+{2012/06/06 20:12:52} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=413QETi,     SenderEmail=pedro_simoneti@hotmail.com)) - begin 
+{2012/06/06 20:12:52} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=413QETi,     SenderEmail=pedro_simoneti@hotmail.com)) - error [HTTP 400] - BAD_REQUEST [11014] - senderPhone invalid value: 333803 
+{2012/06/06 20:13:07} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=41MALCk,     SenderEmail=pedro_simoneti@hotmail.com)) - begin 
+{2012/06/06 20:13:07} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=41MALCk,     SenderEmail=pedro_simoneti@hotmail.com)) - error [HTTP 400] - BAD_REQUEST [11014] - senderPhone invalid value: 333803 
+{2012/06/06 20:13:18} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=41ygvQG,     SenderEmail=pedro_simoneti@hotmail.com)) - begin 
+{2012/06/06 20:13:19} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=41ygvQG,     SenderEmail=pedro_simoneti@hotmail.com)) - error [HTTP 400] - BAD_REQUEST [11014] - senderPhone invalid value: 333803 
+{2012/06/06 20:13:31} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=418lt5C,     SenderEmail=pedro_simoneti@hotmail.com)) - begin 
+{2012/06/06 20:13:32} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=418lt5C,     SenderEmail=pedro_simoneti@hotmail.com)) - error [HTTP 400] - BAD_REQUEST [11014] - senderPhone invalid value: 333803 
+{2012/06/06 20:13:47} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=41XwZYN,     SenderEmail=pedro_simoneti@hotmail.com)) - begin 
+{2012/06/06 20:13:47} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=41XwZYN,     SenderEmail=pedro_simoneti@hotmail.com)) - error [HTTP 400] - BAD_REQUEST [11014] - senderPhone invalid value: 333803 
+{2012/06/06 20:14:59} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=41pdVMn,     SenderEmail=pedro_simoneti@hotmail.com)) - begin 
+{2012/06/06 20:14:59} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=41pdVMn,     SenderEmail=pedro_simoneti@hotmail.com)) - end {1}63F57F18B1B1085FF4322F9267B9ABDB 
+{2012/06/06 20:21:58} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=B5619B-625DCC5DCC69-C114E1DFAB95-8A8DAF) - begin 
+{2012/06/06 20:21:59} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=B5619B-625DCC5DCC69-C114E1DFAB95-8A8DAF) - end Transaction(Code=D2A62E69-619B-4932-9F1E-11D8E8C0B37D, SenderEmail=pedro_simoneti@hotmail.com, Date=2012-06-06T20:15:00.000-03:00, Reference=41pdVMn, status=1, itemsCount=1)) 
+{2012/06/06 22:32:22} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=41fAZls,     SenderEmail=pedro_simoneti@hotmail.com)) - begin 
+{2012/06/06 22:32:23} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=41fAZls,     SenderEmail=pedro_simoneti@hotmail.com)) - end {1}2C7B4A866464BF21142D5FA2E6F89BB3 
+{2012/06/06 22:33:15} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=E52EF4-91801B801BEA-0334636F839B-B294B0) - begin 
+{2012/06/06 22:33:16} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=E52EF4-91801B801BEA-0334636F839B-B294B0) - end Transaction(Code=9137A935-B6F2-4306-99C8-B41670D749AE, SenderEmail=pedro_simoneti@hotmail.com, Date=2012-06-06T22:32:23.000-03:00, Reference=41fAZls, status=1, itemsCount=1)) 
+{2012/06/06 22:37:27} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=BB0A36-40889C889C94-CCC4AB6F9E36-4CCF74) - begin 
+{2012/06/06 22:37:27} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=BB0A36-40889C889C94-CCC4AB6F9E36-4CCF74) - end Transaction(Code=9137A935-B6F2-4306-99C8-B41670D749AE, SenderEmail=pedro_simoneti@hotmail.com, Date=2012-06-06T22:32:23.000-03:00, Reference=41fAZls, status=3, itemsCount=1)) 
+{2012/06/07 12:34:01} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=416DL8K,     SenderEmail=pedro_simoneti@hotmail.com)) - begin 
+{2012/06/07 12:34:02} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=416DL8K,     SenderEmail=pedro_simoneti@hotmail.com)) - end {1}BA72C4A1B5B51F8BB443FFB0E81CA0C0 
+{2012/06/11 10:15:26} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=39gkpLz,     SenderEmail=teste@wayimoveis.com.br)) - begin 
+{2012/06/11 10:15:27} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=39gkpLz,     SenderEmail=teste@wayimoveis.com.br)) - end {1}495F58747F7F953FF48D3F8DF1014AC6 
+{2012/06/11 10:23:47} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=947E36-D20B5D0B5D9B-D9944BEF9919-20464C) - begin 
+{2012/06/11 10:23:47} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=947E36-D20B5D0B5D9B-D9944BEF9919-20464C) - end Transaction(Code=C470A067-B8DE-4FD9-8418-5DDF7995083D, SenderEmail=teste@wayimoveis.com.br, Date=2012-06-11T10:15:27.000-03:00, Reference=39gkpLz, status=1, itemsCount=1)) 
+{2012/06/11 10:42:09} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=A7DF86-B37A6A7A6A6D-0BB4E93F8E4B-19606D) - begin 
+{2012/06/11 10:42:09} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=A7DF86-B37A6A7A6A6D-0BB4E93F8E4B-19606D) - error [HTTP 404] - NOT_FOUND  
+{2012/06/12 07:59:51} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=6F770D-73943A943A18-3884DF8FB947-4138DB) - begin 
+{2012/06/12 07:59:52} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=6F770D-73943A943A18-3884DF8FB947-4138DB) - error [HTTP 404] - NOT_FOUND  
+{2012/06/20 06:57:04} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D2453E-E4E5A4E5A446-DCC4BE7FB9AB-2BF71D) - begin 
+{2012/06/20 06:57:05} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D2453E-E4E5A4E5A446-DCC4BE7FB9AB-2BF71D) - end Transaction(Code=42028104-A160-40FD-8595-5CF8902F227B, SenderEmail=andre@agsimulators.com.br, Date=2012-06-06T15:31:11.000-03:00, Reference=38VCryA, status=7, itemsCount=1)) 
+{2012/06/20 06:58:05} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=C06882-D7C1F0C1F036-F5540A2FB5B6-0DC687) - begin 
+{2012/06/20 06:58:05} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=C06882-D7C1F0C1F036-F5540A2FB5B6-0DC687) - end Transaction(Code=2D53D75F-9C38-4E25-80F3-748F57002C06, SenderEmail=andre@agsimulators.com.br, Date=2012-06-06T15:42:36.000-03:00, Reference=38vpM7t, status=7, itemsCount=1)) 
+{2012/06/20 07:02:00} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=591A3B-032541254190-E114BF7FB5AA-2C8488) - begin 
+{2012/06/20 07:02:01} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=591A3B-032541254190-E114BF7FB5AA-2C8488) - end Transaction(Code=873C9EEB-E738-40DA-9D8B-E0FBDDA70454, SenderEmail=andre@agsimulators.com.br, Date=2012-06-06T16:28:31.000-03:00, Reference=38gxBG5, status=7, itemsCount=1)) 
+{2012/06/20 07:06:20} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=4E5347-FD06050605E6-A224DE1FAE93-90D0B4) - begin 
+{2012/06/20 07:06:20} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=4E5347-FD06050605E6-A224DE1FAE93-90D0B4) - end Transaction(Code=8BEACC3D-CFA9-4DBF-9C03-AF7604E0119A, SenderEmail=andre@agsimulators.com.br, Date=2012-06-06T17:17:42.000-03:00, Reference=38zW3bd, status=7, itemsCount=1)) 
+{2012/06/20 07:17:10} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=39A827-5C4BC44BC480-9FF4C4EF9FA5-30225B) - begin 
+{2012/06/20 07:17:11} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=39A827-5C4BC44BC480-9FF4C4EF9FA5-30225B) - end Transaction(Code=D2A62E69-619B-4932-9F1E-11D8E8C0B37D, SenderEmail=pedro_simoneti@hotmail.com, Date=2012-06-06T20:15:00.000-03:00, Reference=41pdVMn, status=7, itemsCount=1)) 
+{2012/06/20 22:47:10} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=A97E8B-E137F737F719-744450FF88AF-321AFB) - begin 
+{2012/06/20 22:47:10} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=A97E8B-E137F737F719-744450FF88AF-321AFB) - end Transaction(Code=9137A935-B6F2-4306-99C8-B41670D749AE, SenderEmail=pedro_simoneti@hotmail.com, Date=2012-06-06T22:32:23.000-03:00, Reference=41fAZls, status=4, itemsCount=1)) 
+{2012/06/22 22:17:57} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=413C5s2,     SenderEmail=pedro_simoneti@hotmail.com)) - begin 
+{2012/06/22 22:17:58} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=413C5s2,     SenderEmail=pedro_simoneti@hotmail.com)) - end {1}BA30090CDEDE8448844D1F8DB0D7A81A 
+{2012/06/25 06:28:30} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=7724EA-3C714371437E-CFF456DF8267-3102D4) - begin 
+{2012/06/25 06:28:31} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=7724EA-3C714371437E-CFF456DF8267-3102D4) - end Transaction(Code=C470A067-B8DE-4FD9-8418-5DDF7995083D, SenderEmail=teste@wayimoveis.com.br, Date=2012-06-11T10:15:27.000-03:00, Reference=39gkpLz, status=7, itemsCount=1)) 
+{2012/06/26 08:22:06} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D3F1AB-448ED18ED111-5114C2CF8D6F-79F821) - begin 
+{2012/06/26 08:22:06} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=D3F1AB-448ED18ED111-5114C2CF8D6F-79F821) - error [HTTP 404] - NOT_FOUND  
+{2012/06/30 18:14:44} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=421MfGn,     SenderEmail=danielmatschulat@gmail.com)) - begin 
+{2012/06/30 18:14:44} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=421MfGn,     SenderEmail=danielmatschulat@gmail.com)) - end {1}EB90B31D1717DAABB4D4DF9B683DD1BA 
+{2012/06/30 18:20:45} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=161F72-CD87B587B5FC-633444FFAEED-9538CD) - begin 
+{2012/06/30 18:20:46} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=161F72-CD87B587B5FC-633444FFAEED-9538CD) - end Transaction(Code=9843AA75-0B80-4993-B82E-D45A3B0A4036, SenderEmail=danielmatschulat@gmail.com, Date=2012-06-30T18:14:45.000-03:00, Reference=421MfGn, status=1, itemsCount=1)) 
+{2012/07/14 06:38:05} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=13EE9A-DBA17BA17B2C-DCC442BF85A1-C41B67) - begin 
+{2012/07/14 06:38:06} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=13EE9A-DBA17BA17B2C-DCC442BF85A1-C41B67) - end Transaction(Code=9843AA75-0B80-4993-B82E-D45A3B0A4036, SenderEmail=danielmatschulat@gmail.com, Date=2012-06-30T18:14:45.000-03:00, Reference=421MfGn, status=7, itemsCount=1)) 
+{2012/07/18 10:36:28} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=38kDHyy,     SenderEmail=andre@agsimulators.com.br)) - begin 
+{2012/07/18 10:36:28} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=38kDHyy,     SenderEmail=andre@agsimulators.com.br)) - end {1}D5AF9B3306066BE774D65F92ED6DE574 
+{2012/07/18 10:39:11} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=3C08EC-C435003500B9-34449FEF9834-D1A324) - begin 
+{2012/07/18 10:39:11} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=3C08EC-C435003500B9-34449FEF9834-D1A324) - end Transaction(Code=F71E7F4C-8DF7-4142-AAAD-3F590C5AEC15, SenderEmail=andre@agsimulators.com.br, Date=2012-07-18T10:36:28.000-03:00, Reference=38kDHyy, status=1, itemsCount=1)) 
+{2012/08/01 06:28:50} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=1C1B7B-953095309515-0CC4535FB3D1-99B6C7) - begin 
+{2012/08/01 06:28:51} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=1C1B7B-953095309515-0CC4535FB3D1-99B6C7) - end Transaction(Code=F71E7F4C-8DF7-4142-AAAD-3F590C5AEC15, SenderEmail=andre@agsimulators.com.br, Date=2012-07-18T10:36:28.000-03:00, Reference=38kDHyy, status=7, itemsCount=1)) 
