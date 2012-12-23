@@ -6,7 +6,7 @@ Adaptação da API PagSeguro Library Class 2.0.3 para utilização com Code Igni
 Instalação
 =====================
 
-Baixe os arquivos de integração do repositório e extraia dentro da sua aplicação.\r\n
+Baixe os arquivos de integração do repositório e extraia dentro da sua aplicação.
 Sete permissão 777 para ``./application/libraries/``
 
 Como usar
