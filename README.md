@@ -1,12 +1,12 @@
 Pagseguro Code Igniter
 =====================
 
-Adaptação da API Pagseguro para utilização com Code Igniter.
+Adaptação da API PagSeguro Library Class 2.0.3 para utilização com Code Igniter.
 
 Instalação
 =====================
 
-Baixe os arquivos de integração do repositório e extraia dentro da sua aplicação.
+Baixe os arquivos de integração do repositório e extraia dentro da sua aplicação.\r\n
 Sete permissão 777 para ``./application/libraries/``
 
 Como usar
