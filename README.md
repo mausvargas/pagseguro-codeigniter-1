@@ -3,6 +3,12 @@ Pagseguro Code Igniter
 
 Adaptação da API Pagseguro para utilização com Code Igniter.
 
+Instalação
+=====================
+
+Baixe os arquivos de integração do repositório e extraia dentro da sua aplicação.
+Sete permissão 777 para ``./application/libraries/``
+
 Como usar
 =====================
 
@@ -19,7 +25,7 @@ Na seu controller:
     <?php
     
     class MeuController extends CI_Controller {
-      provate $pgAccount;
+      private $pgAccount;
       private $pgToken;
       
       public function __construct() {
