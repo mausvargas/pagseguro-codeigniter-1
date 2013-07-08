@@ -200,6 +200,7 @@ class Ofertas extends CI_Controller {
 				);
 	
 				$this->Vendas_model->update($dados, $venda->idVenda);
+			}
 		}
 	}
 	
